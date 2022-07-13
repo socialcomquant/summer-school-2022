@@ -1,0 +1,393 @@
+<svg id="w3resource_logo_svg" data-name="w3resource logo svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="607" height="486" viewBox="0 0 607 486">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #2f2f2f;
+      }
+
+      .cls-1, .cls-22 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 11px;
+        fill: #404040;
+        text-anchor: middle;
+      }
+
+      .cls-10, .cls-2, .cls-21, .cls-23, .cls-3, .cls-6 {
+        font-family: Roboto;
+      }
+
+      .cls-3 {
+        font-size: 30px;
+        fill: #2d3974;
+      }
+
+      .cls-10, .cls-21, .cls-23, .cls-3, .cls-6 {
+        font-weight: 300;
+      }
+
+      .cls-11, .cls-12, .cls-17, .cls-18, .cls-4, .cls-5 {
+        fill: #a4ebff;
+      }
+
+      .cls-4 {
+        stroke: #049099;
+        filter: url(#filter);
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9 {
+        stroke-linejoin: round;
+        stroke-width: 1px;
+      }
+
+      .cls-11, .cls-12, .cls-14, .cls-15, .cls-17, .cls-18, .cls-5, .cls-7, .cls-8 {
+        stroke: #01686f;
+      }
+
+      .cls-5 {
+        filter: url(#filter-2);
+      }
+
+      .cls-10, .cls-23, .cls-6 {
+        font-size: 24px;
+      }
+
+      .cls-6 {
+        fill: #01686f;
+      }
+
+      .cls-14, .cls-15, .cls-7, .cls-8 {
+        fill: #dcf7ff;
+      }
+
+      .cls-7 {
+        filter: url(#filter-3);
+      }
+
+      .cls-8 {
+        filter: url(#filter-4);
+      }
+
+      .cls-13, .cls-16, .cls-19, .cls-9 {
+        fill: gray;
+        stroke: #fbd500;
+      }
+
+      .cls-9 {
+        filter: url(#filter-5);
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        filter: url(#filter-6);
+      }
+
+      .cls-12 {
+        filter: url(#filter-7);
+      }
+
+      .cls-13 {
+        filter: url(#filter-8);
+      }
+
+      .cls-14 {
+        filter: url(#filter-9);
+      }
+
+      .cls-15 {
+        filter: url(#filter-10);
+      }
+
+      .cls-16 {
+        filter: url(#filter-11);
+      }
+
+      .cls-17 {
+        filter: url(#filter-12);
+      }
+
+      .cls-18 {
+        filter: url(#filter-13);
+      }
+
+      .cls-19 {
+        filter: url(#filter-14);
+      }
+
+      .cls-20, .cls-21, .cls-22, .cls-23 {
+        fill: #cf5800;
+      }
+
+      .cls-21 {
+        font-size: 16px;
+      }
+    </style>
+    <filter id="filter" x="104" y="121" width="50" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="158" y="121" width="389" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="104" y="167" width="50" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="158" y="167" width="389" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="166" y="170" width="75" height="39" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-opacity="0.48"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="104" y="214" width="50" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="158" y="214" width="389" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="310" y="217" width="67" height="39" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-opacity="0.48"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="104" y="261" width="50" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="158" y="261" width="389" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-11" x="406" y="264" width="40" height="39" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-opacity="0.48"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-12" x="104" y="308" width="50" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-13" x="158" y="308" width="389" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.58"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-14" x="478" y="311" width="49" height="39" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-opacity="0.48"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <image id="Layer_0" data-name="Layer 0" width="607" height="486" xlink:href="data:img/png;base64,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"/>
+  <path class="cls-1" d="M517.283,480.242a5.122,5.122,0,0,1-2.037,2.041,5.534,5.534,0,0,1-5.484,0,5.135,5.135,0,0,1-2.042-2.041,5.513,5.513,0,0,1,.011-5.5,5.089,5.089,0,0,1,2.063-2.037,5.5,5.5,0,0,1,5.419,0,5.073,5.073,0,0,1,2.059,2.037A5.539,5.539,0,0,1,517.283,480.242Zm-0.8-5.042a4.24,4.24,0,0,0-1.719-1.7,4.582,4.582,0,0,0-4.516,0,4.273,4.273,0,0,0-1.72,1.7,4.584,4.584,0,0,0-.011,4.585,4.334,4.334,0,0,0,1.705,1.7,4.593,4.593,0,0,0,4.571,0,4.3,4.3,0,0,0,1.7-1.7A4.6,4.6,0,0,0,516.479,475.2Zm-3.988,4.639a2.089,2.089,0,0,0,1.914-1.469l1,0.348a3.143,3.143,0,0,1-2.912,2.177,3.375,3.375,0,0,1,0-6.73,3.05,3.05,0,0,1,2.643,1.586l-0.915.529a2.007,2.007,0,0,0-1.728-1.058A2.324,2.324,0,0,0,512.491,479.839Z"/>
+  <text id="w3resource.com" class="cls-2" x="561" y="480.75"><tspan x="561">w3resource.com</tspan></text>
+  <text id="Pandas_DataFrame" data-name="Pandas DataFrame" class="cls-3" x="164" y="464">Pandas DataFrame</text>
+  <g>
+    <g style="fill: #a4ebff; filter: url(#filter)">
+      <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-4" x="110" y="124" width="37" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1" style="stroke: #049099; filter: none; fill: none"/>
+    <g style="fill: #a4ebff; filter: url(#filter-2)">
+      <rect id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-5" x="164" y="124" width="376" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1_copy" style="stroke: #01686f; filter: none; fill: none"/>
+    <g id="text">
+      <text id="_0" data-name="0" class="cls-6" x="121" y="151">0</text>
+      <text id="Anastasia" class="cls-6" x="174" y="151">Anastasia</text>
+      <text id="_12.5" data-name="12.5" class="cls-6" x="316" y="151">12.5</text>
+      <text id="_1" data-name="1" class="cls-6" x="419" y="151">1</text>
+      <text id="yes" class="cls-6" x="484" y="151">yes</text>
+    </g>
+  </g>
+  <g id="Group_1_copy" data-name="Group 1 copy">
+    <g style="fill: #dcf7ff; filter: url(#filter-3)">
+      <rect id="Rounded_Rectangle_1-2" data-name="Rounded Rectangle 1" class="cls-7" x="110" y="170" width="37" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1-2" style="stroke: #01686f; filter: none; fill: none"/>
+    <g style="fill: #dcf7ff; filter: url(#filter-4)">
+      <rect id="Rounded_Rectangle_1_copy-2" data-name="Rounded Rectangle 1 copy" class="cls-8" x="164" y="170" width="376" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1_copy-2" style="stroke: #01686f; filter: none; fill: none"/>
+    <g id="text_copy" data-name="text copy">
+      <g style="fill: gray; filter: url(#filter-5)">
+        <rect id="Rounded_Rectangle_2_copy_3" data-name="Rounded Rectangle 2 copy 3" class="cls-9" x="169" y="173" width="69" height="30" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Rounded_Rectangle_2_copy_3" style="stroke: #fbd500; filter: none; fill: none"/>
+      <text id="_1-2" data-name="1" class="cls-6" x="121" y="196">1</text>
+      <text id="Dima" class="cls-10" x="174" y="196">Dima</text>
+      <text id="_9.0" data-name="9.0" class="cls-6" x="332" y="196">9.0</text>
+      <text id="_3" data-name="3" class="cls-6" x="419" y="196">3</text>
+      <text id="no" class="cls-6" x="489" y="196">no</text>
+    </g>
+  </g>
+  <g id="Group_1_copy_2" data-name="Group 1 copy 2">
+    <g style="fill: #a4ebff; filter: url(#filter-6)">
+      <rect id="Rounded_Rectangle_1-3" data-name="Rounded Rectangle 1" class="cls-11" x="110" y="217" width="37" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1-3" style="stroke: #01686f; filter: none; fill: none"/>
+    <g style="fill: #a4ebff; filter: url(#filter-7)">
+      <rect id="Rounded_Rectangle_1_copy-3" data-name="Rounded Rectangle 1 copy" class="cls-12" x="164" y="217" width="376" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1_copy-3" style="stroke: #01686f; filter: none; fill: none"/>
+    <g id="text_copy_2" data-name="text copy 2">
+      <g style="fill: gray; filter: url(#filter-8)">
+        <rect id="Rounded_Rectangle_2_copy_2" data-name="Rounded Rectangle 2 copy 2" class="cls-13" x="313" y="220" width="61" height="30" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Rounded_Rectangle_2_copy_2" style="stroke: #fbd500; filter: none; fill: none"/>
+      <text id="_2" data-name="2" class="cls-6" x="121" y="243">2</text>
+      <text id="Katherine" class="cls-6" x="174" y="243">Katherine</text>
+      <text id="_16.5" data-name="16.5" class="cls-10" x="317" y="243">16.5</text>
+      <text id="_2-2" data-name="2" class="cls-6" x="419" y="243">2</text>
+      <text id="yes-2" data-name="yes" class="cls-6" x="484" y="243">yes</text>
+    </g>
+  </g>
+  <g id="Group_1_copy_3" data-name="Group 1 copy 3">
+    <g style="fill: #dcf7ff; filter: url(#filter-9)">
+      <rect id="Rounded_Rectangle_1-4" data-name="Rounded Rectangle 1" class="cls-14" x="110" y="264" width="37" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1-4" style="stroke: #01686f; filter: none; fill: none"/>
+    <g style="fill: #dcf7ff; filter: url(#filter-10)">
+      <rect id="Rounded_Rectangle_1_copy-4" data-name="Rounded Rectangle 1 copy" class="cls-15" x="164" y="264" width="376" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1_copy-4" style="stroke: #01686f; filter: none; fill: none"/>
+    <g style="fill: gray; filter: url(#filter-11)">
+      <rect id="Rounded_Rectangle_2_copy_4" data-name="Rounded Rectangle 2 copy 4" class="cls-16" x="409" y="267" width="34" height="30" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_2_copy_4" style="stroke: #fbd500; filter: none; fill: none"/>
+    <g id="text_copy_3" data-name="text copy 3">
+      <text id="_3-2" data-name="3" class="cls-6" x="121" y="290">3</text>
+      <text id="James" class="cls-6" x="174" y="290">James</text>
+      <text id="NaN" class="cls-6" x="317" y="290">NaN</text>
+      <text id="_3-3" data-name="3" class="cls-10" x="419" y="290">3</text>
+      <text id="no-2" data-name="no" class="cls-6" x="489" y="290">no</text>
+    </g>
+  </g>
+  <g id="Group_1_copy_4" data-name="Group 1 copy 4">
+    <g style="fill: #a4ebff; filter: url(#filter-12)">
+      <rect id="Rounded_Rectangle_1-5" data-name="Rounded Rectangle 1" class="cls-17" x="110" y="311" width="37" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1-5" style="stroke: #01686f; filter: none; fill: none"/>
+    <g style="fill: #a4ebff; filter: url(#filter-13)">
+      <rect id="Rounded_Rectangle_1_copy-5" data-name="Rounded Rectangle 1 copy" class="cls-18" x="164" y="311" width="376" height="37" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_1_copy-5" style="stroke: #01686f; filter: none; fill: none"/>
+    <g style="fill: gray; filter: url(#filter-14)">
+      <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-19" x="481" y="314" width="43" height="30" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Rounded_Rectangle_2" style="stroke: #fbd500; filter: none; fill: none"/>
+    <g id="text_copy_4" data-name="text copy 4">
+      <text id="_4" data-name="4" class="cls-6" x="121" y="338">4</text>
+      <text id="Emily" class="cls-6" x="174" y="337">Emily</text>
+      <text id="_9.0-2" data-name="9.0" class="cls-6" x="332" y="338">9.0</text>
+      <text id="_2-3" data-name="2" class="cls-6" x="419" y="338">2</text>
+      <text id="no-3" data-name="no" class="cls-10" x="489" y="336">no</text>
+    </g>
+  </g>
+  <rect class="cls-20" x="200" y="116" width="333" height="2"/>
+  <text id="Name" class="cls-21" x="200" y="108">Name</text>
+  <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-20" x="223" y="62" width="284" height="2"/>
+  <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-20" x="359" y="41" width="2" height="21"/>
+  <path class="cls-22" d="M221.441,62H223V82.4l3.118-4.989L222.22,93l-3.9-15.591,3.118,4.989V62Z"/>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-22" d="M343.441,62H345V82.4l3.118-4.989L344.22,93l-3.9-15.591,3.118,4.989V62Z"/>
+  <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-22" d="M426.441,62H428V82.4l3.118-4.989L427.22,93l-3.9-15.591,3.118,4.989V62Z"/>
+  <path id="Shape_1_copy_3" data-name="Shape 1 copy 3" class="cls-22" d="M505.441,62H507V82.4l3.118-4.989L506.22,93l-3.9-15.591,3.118,4.989V62Z"/>
+  <rect id="Rectangle_1_copy-2" data-name="Rectangle 1 copy" class="cls-20" x="295" y="372" width="239" height="2"/>
+  <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-20" x="295" y="187" width="2" height="187"/>
+  <rect id="Rectangle_1_copy_8" data-name="Rectangle 1 copy 8" class="cls-20" x="391" y="234" width="2" height="140"/>
+  <rect id="Rectangle_1_copy_11" data-name="Rectangle 1 copy 11" class="cls-20" x="459" y="281" width="2" height="92"/>
+  <rect id="Rectangle_1_copy_9" data-name="Rectangle 1 copy 9" class="cls-20" x="532" y="328" width="2" height="46"/>
+  <rect id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" class="cls-20" x="242" y="187" width="55" height="2"/>
+  <rect id="Rectangle_1_copy_5" data-name="Rectangle 1 copy 5" class="cls-20" x="446" y="281" width="13" height="2"/>
+  <rect id="Rectangle_1_copy_7" data-name="Rectangle 1 copy 7" class="cls-20" x="379" y="234" width="13" height="2"/>
+  <rect id="Rectangle_1_copy_10" data-name="Rectangle 1 copy 10" class="cls-20" x="527" y="328" width="6" height="2"/>
+  <rect id="Rectangle_1_copy_2-2" data-name="Rectangle 1 copy 2" class="cls-20" x="501.781" y="372" width="2" height="21"/>
+  <rect id="Rectangle_1_copy-3" data-name="Rectangle 1 copy" class="cls-20" x="70" y="142" width="2" height="188"/>
+  <rect id="Rectangle_1_copy_2-3" data-name="Rectangle 1 copy 2" class="cls-20" x="49" y="233.219" width="21" height="2"/>
+  <path class="cls-22" d="M70,282.87v-1.561H90.4l-4.989-3.12,15.591,3.9-15.591,3.9,4.989-3.12H70Z"/>
+  <path id="Shape_1_copy_4" data-name="Shape 1 copy 4" class="cls-22" d="M70,330.87v-1.561H90.4l-4.989-3.12,15.591,3.9-15.591,3.9,4.989-3.12H70Z"/>
+  <path id="Shape_1_copy-2" data-name="Shape 1 copy" class="cls-22" d="M70,234.791v-1.56H90.4l-4.989-3.12,15.591,3.9-15.591,3.9,4.989-3.12H70Z"/>
+  <path id="Shape_1_copy_2-2" data-name="Shape 1 copy 2" class="cls-22" d="M70,188.738v-1.56H90.4l-4.989-3.12,15.591,3.9-15.591,3.9,4.989-3.12H70Z"/>
+  <path id="Shape_1_copy_3-2" data-name="Shape 1 copy 3" class="cls-22" d="M70,143.687v-1.56H90.4l-4.989-3.12,15.591,3.9-15.591,3.9,4.989-3.12H70Z"/>
+  <text id="Score" class="cls-21" x="321" y="108">Score</text>
+  <text id="Attempts" class="cls-21" x="389" y="108">Attempts</text>
+  <text id="Qualify" class="cls-21" x="480" y="108">Qualify</text>
+  <text id="Columns" class="cls-23" x="308" y="34">Columns</text>
+  <text id="Data" class="cls-23" x="476" y="416">Data</text>
+  <text id="Rows" class="cls-23" transform="translate(24.309 203.664) rotate(90)">Rows</text>
+</svg>
