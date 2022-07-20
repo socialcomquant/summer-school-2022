@@ -1,0 +1,486 @@
+pizza	477.8
+pizzas	477.8
+cheeseburger	303
+cheeseburgers	303
+ice cream	157.24
+icecream	157.24
+sour cream	193
+chicken	239
+cheese	402
+cheeses	402
+cola	65.84
+egg	147.76
+eggs	147.76
+ham	145
+wine	76.52
+wines	76.52
+beer	43
+beers	43
+bread	265
+corn	168.72
+chips	536.00
+rice	159.16
+bacon	541.0
+soup	117.6
+milk	42
+snack	132.88
+sauce	62.12
+cereal	152.4
+cereals	152.4
+banana	89.3
+cookie	215.88
+cookies	215.88
+meat	194.08
+meats	194.08
+milkshake	259.36
+fish	206
+fruit	52.0
+fruits	52.0
+chocolate	546
+chocolates	546
+nuts	197.88
+nut	197.88
+fast food	409.1666666666667
+potatoes	77
+potato	77
+peanut	164.32
+peanuts	164.32
+oat	187.84
+oats	187.84
+beef	181.36
+chili	156.76
+orange	47
+oranges	47
+strawberry	32
+strawberries	32
+butter	717
+oil	884
+pumpkin	26
+pumpkins	26
+hot dog	290
+sausage	346
+sausages	346
+pork	242
+chocolate covered	546
+pasta	131
+strawberries	32
+strawberry	32
+crackers	55.88
+olive	115
+olives	115
+sweet potato	86
+garlic	66
+yogurt	59
+juice	67.84
+pickles	11.72
+pickle	11.72
+vegetables	92.2
+vegetable	92.2
+salmon	208
+pineapple	50
+chicken noodle soup	36
+crab	97
+lemonade	104.44
+spinach	23
+pepperoni	320.92
+mozzarella	118.08
+hamburger	380.44
+hamburgers	380.44
+oyster	199
+oysters	199
+orange juice	45
+tomatoes	18
+tomato	18
+coconut	133.04
+coconuts	133.04
+ice cream sandwich	237
+carrot	37.08
+carrots	37.08
+salsa	31.92
+almond milk	64.48
+wheat	205.04
+cheddar	402
+duck	275.96
+watermelon	30
+onion	40
+ice cream cone	417
+pepper	40
+peppers	40
+vegetable	65
+parmesan	431
+apples	52
+peaches	39
+peach	39
+chard	19
+lettuce	8.6
+tomato soup	42
+lard	898
+kale	50.16
+dates	282
+mushroom	22
+mushrooms	22
+potato salad	213.48
+salad	15
+squash	45
+chicken breast	178.0
+ginger ale	94.48
+green beans	34.08
+green bean	34.08
+grapes	67
+grape	67
+fruit salad	50
+teriyaki	89
+onions	40
+cucumber	9.64
+pretzels	148.92
+pretzel	148.92
+oats	187.84
+brisket	223.28
+carrot	37.08
+hash brown	326
+dressing	70.72
+zucchini	17
+beans	347
+gravy	79
+strawberry banana	182.68
+ramen noodle	628.32
+ramen noodles	628.32
+goose	377.84
+broccoli	34
+brocoli	34
+turkey bacon	215.64
+potato soup	193.24
+eggplant	25
+eggplants	25
+peas	65.36
+pea	65.36
+granola	471
+honey mustard	122.24
+onion rings	430.28
+pears	57
+pear	57
+pate	319
+ravioli	77
+lima	115
+black bean	121.68
+almond butter	614
+shoulder	287.96
+veal	401.64
+almonds	579
+almond	579
+hazelnut	628
+hazelnuts	628
+jalapeno	14.12
+goat	143
+goats	143
+sprite	172.92
+coconut milk	83.52
+grapefruit	42
+grapefruits	42
+walnut	654
+walnuts	654
+vinegar	5.76
+root beer	41
+avocado	165.96
+buttermilk	115.52
+salad dressing	91.0
+plum	46
+plums	46
+ice cream bar	186.16
+yolk	247.92
+cider	139.48
+cream soda	112.76
+red bull	64.4375
+lemon juice	3.68
+chocolate syrup	546
+scotch	144.8
+chorizo	455
+chocolate syrup	546
+cauliflower	23.291666666666668
+cocoa butter	884
+applesauce	68
+red wine	77.64
+white wine	82
+sunflower	167.66666666666666
+barbecue	172
+cabbage	20.92
+cabbages	20.92
+sheep	127.66666666666667
+coconut water	76.56
+blueberries	57
+blueberry	57
+chicken breast	155.29166666666666
+chicken rice	190.08
+pastrami	179.04347826086956
+ricotta	108.28
+raspberries	53
+raspberry	53
+apple juice	46
+feta	96.88
+romano	173.64
+lemons	29
+lemon	29
+mace	525
+cheese sauce	174
+vegetable soup	42
+celery	15.32
+avocados	165.96
+avocado	165.96
+mangos	60
+mango	60
+edamame	118.84
+salami	336
+chicken noodle	100.04
+provolone	352
+seaweed	46.04
+raisins	122.36
+mayonnaise	131.16
+ranch dressing	484
+colby	102.32
+edam	145.72
+coconut cream	306.56
+asparagus	26.84
+papaya	163.56
+brussels sprouts	40.08
+eggnog	167.92
+spaghetti sauce	70.68
+okra	40.88
+pimento	65.44
+cherries	50
+cherry	50
+canadian bacon	157.0
+cranberries	46
+cranberry	46
+tenderloin	324
+bologna	247
+morel	41.3
+soft serve	222
+pork tenderloin	175.96
+clam chowder	203.92
+potato wedges	228.4
+bacon grease	254.0
+plantains	122
+balsamic	71.04
+gouda	115.6
+chicken liver	196.88
+parsley	44.44
+cream of wheat	236.28
+chicken broth	18.36
+whey	131.0
+cereals	152.4
+nestle	222.6
+italian dressing	117.12
+quail	107.1
+limeade	115.36
+turkey sausage	259.84
+pineapple juice	60
+sardine	208
+sardines	208
+sauerkraut	11.32
+grape soda	145.625
+kashi	184.28
+chicken patty	209.56
+lime juice	32.28
+chives	30
+kellogg	161.36
+fennel	31
+potato pancakes	204.84
+limes	32.28
+pecans	183.56
+pecan	183.56
+kidney	118.6
+shallots	72
+milk shake	419.04
+gruyere	413
+oregano	31.28
+gazpacho	85.95
+blackberries	43
+blackberry	43
+rib eye	352.48
+split pea soup	161.76
+lentils	116
+lentil	116
+broccoli cheese soup	218.6
+beets	43.52
+beet	43.52
+rhubarb	21
+tomato bisque	181.32
+pine nuts	201.84
+carissa	12.0
+portabella	321.52
+chicken roll	315.6666666666667
+beef stroganoff	236.48
+french onion soup	236.6
+cranberry sauce	84.12
+watercress	98.04166666666667
+dulce de leche	189.88
+plums	46
+plum	46
+herring	203
+arugula	25
+cheese spread	295
+kielbasa	226
+orange peel	47
+russet	126.44
+mustard greens	30.24
+poultry	102.28
+daiquiri	215.88
+radishes	27.16
+radish	27.16
+scrapple	157.27272727272728
+ground turkey	173.28
+grapefruit juice	39
+turkey breast	189.0
+muenster	368
+ostrich	156.28
+pina colada	227.08
+hot chili	83.44
+corn flakes	174.68
+minestrone soup	137.36
+broccoli cheese	233.32
+carrot juice	39
+honeydew	36
+vegetable oil	120.36
+head cheese	87.45454545454545
+pork sausage	268
+beef noodle	148.0
+chicken mushroom	441.72
+cream of mushroom	132.72
+bratwurst	242.4
+cream of mushroom soup	214.12
+minestrone	123.32
+collards	44.84
+fontina	172.96
+grape juice	60
+lima beans	101.84
+turkey ham	74.12
+pomegranates	83
+clementines	47
+clementine	47
+beef noodle soup	102.0
+turnip greens	39.6
+fruit cocktail	89.72
+shiitake	95.08
+pork chicken	185.5625
+fava	144.6
+ice cream cookie sandwich	504.11764705882354
+breaded	158.32
+turnips	32.24
+turnip	32.24
+melons	47.32
+melon	47.32
+nectarines	65.68
+nectarine	65.68
+kelp	25.46153846153846
+beef pork	204.32
+worcestershire	6.76
+cheshire	112.6
+leeks	61.0
+cream of chicken	127.6
+succotash	132.14285714285714
+capers	2.08
+chocolate powder	135.28571428571428
+ginger root	26.166666666666668
+pheasant	239.3
+persimmons	87.35714285714286
+peach mango	114.96
+wakame	47.25
+parsnips	75
+parsnip	75
+margarine	717
+radicchio	19.227272727272727
+farina	175.24
+gourd	91.23529411764706
+flank	193.16666666666666
+durian	239.25
+tangerines	53
+tangerine	53
+grape leaves	68.43478260869566
+tomato juice	50.0
+chanterelle	36.77777777777778
+chicken vegetable	143.0
+creamy tomato soup	233.66666666666666
+artichokes	63.76
+artichoke	63.76
+beef broth	17.6
+cream of broccoli soup	165.68
+spearmint	76.0
+butternuts	110.32
+pumpkin pie spice	68.5
+cardamom	83.33333333333333
+chicken dumplings	202.76
+cream of chicken soup	102.44
+chicken gumbo	123.28
+sofrito	89.54545454545455
+prunes	88.44
+jujube	141.0
+macadamia nuts	214.76
+pomegranate juice	130.88
+shellie	101.25
+beef sausage	198.24
+arrowhead	118.92
+polish sausage	227.8
+jackfruit	100.75
+cashew butter	182.44
+new england clam chowder	193.28
+macaroni cheese	349.08
+apricots	48
+apricot	48
+roselle	28.0
+endive	13.545454545454545
+corn pudding	194.0
+hearts of palm	32.12
+nopales	46.5
+mortadella	143.16666666666666
+hoisin	56.72
+soybean	143.76
+top sirloin	368.16
+russian dressing	115.0
+spirulina	100.72727272727273
+chestnuts	82.4
+orange drink	107.92
+soybeans	143.76
+escarole	64.57142857142857
+vegetable beef soup	123.36
+thousand island dressing	160.08
+roquefort	369
+thousand island	152.76
+dark meat	252.92
+tequila sunrise	147.33333333333334
+whiskey sour	125.5
+vegetable beef	106.12
+cheese product	44.0
+shortening	247.52
+cocoa mix	119.08
+honey mustard dressing	171.04
+lemon peel	67.8
+chicken corn chowder	204.72
+chicken noodles soup	111.12
+slimfast	168.64
+peas carrots	56.64
+fungi	279.5
+oat bran	150.6
+chicken rice soup	82.07692307692308
+green leaf	65.27777777777777
+mixed nuts	193.16
+cassava	145.28
+donut	452
+donuts	452
+fries	312
+fry	312
+steak	271
+pie	237
+biscuits	353
+biscuit	353
+cornbread	330
+meatloaf	207
+mac cheese	167
+peanut butter	588
+waffle	291
+waffles	291
+wings	284
+wing	284
+cheesecake	321
+cheesecakes	321
+cake	257
+cobb salad	125

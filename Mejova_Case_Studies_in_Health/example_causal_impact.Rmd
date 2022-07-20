@@ -1,0 +1,101 @@
+---
+title: "A Causal Impact Example" 
+clean: true
+output:
+  bookdown::html_document2:
+    number_sections: false
+    code_download: true
+    code_folding: hide
+    self_contained: true
+    toc: true
+    toc_float: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+```
+
+## Readind data
+
+The data set has four columns:
+
+- **days_tweet**: Each value represents the day of the time period analyzed.
+- **categ**: Each of the categories obtained at LIWC.
+- **values_baseline**: Average values obtained for each day and each category. These values are for users who have not interacted with the online campaign.
+- **values_neda**: Average values obtained for each day and each category. These values are for users who have interacted with the online campaign.
+
+```{r}
+library(tidyverse)
+df <- read_csv("Data/data_causal_impact.csv")
+
+df
+```
+
+For this example we select the "risk" category. We plot values from the baseline and NEDA users:
+
+```{r}
+df %>% 
+  filter(categ == "risk") -> df_risk 
+  
+df_risk %>% 
+  pivot_longer(cols = values_baseline:values_neda) %>% 
+  ggplot(aes(x = days_tweet, y = value, color = name)) +
+  geom_line() +
+  xlab("Period") +
+  ylab("Mean Value") +
+  labs(color = "Values") +
+  theme_linedraw()
+```
+
+## Causal Impact Function
+Next we apply the function from `CausalImpact` for each categories (for more, see https://google.github.io/CausalImpact/CausalImpact.html). We also create two new variables to specify the pre-period and post-period variables: 
+
+- `pre_period`: A vector specifying the first and the last time point of the pre-intervention period in the response vector y. This period can be thought of as a training period, used to determine the relationship between the response variable and the covariates. 
+
+- `post_period`A vector specifying the first and the last day of the post-intervention period we wish to study. This is the period after the intervention has begun whose effect we are interested in.
+
+```{r}
+pre_period <- c(1, 16)
+post_period <- c(17, 31)
+
+df_risk %>% 
+  select(values_baseline, values_neda) -> df_risk 
+
+impact <- CausalImpact::CausalImpact(df_risk, pre.period = pre_period, post.period = post_period)
+```
+
+To obtain a numerical summary of the analysis, we use:
+```{r}
+summary(impact)
+```
+
+The Average column talks about the average (across time) during the post-intervention period (in the example: time points 71 through 100). The Cumulative column sums up individual time points, which is a useful perspective if the response variable represents a flow quantity (such as queries, clicks, visits, installs, sales, or revenue) rather than a stock quantity (such as number of users or stock price).
+
+## Ploting 
+
+By default, the plot contains three panels. The first panel shows the data and a counterfactual prediction for the post-treatment period. The second panel shows the difference between observed data and counterfactual predictions. This is the pointwise causal effect, as estimated by the model. The third panel adds up the pointwise contributions from the second panel, resulting in a plot of the cumulative effect of the intervention.
+
+Remember, once again, that all of the above inferences depend critically on the assumption that the covariates were not themselves affected by the intervention. The model also assumes that the relationship between covariates and treated time series, as established during the pre-period, remains stable throughout the post-period.
+
+```{r}
+plot(impact)
+```
+
+## Report
+For additional guidance about the correct interpretation of the summary table, the package provides a verbal interpretation, which we can print using:
+
+```{r}
+summary(impact, "report")
+```
+
+
+You can find more examples in the GitHub repository. The explanations of the models come from the texts used in this example: https://google.github.io/CausalImpact/CausalImpact.html
+
+
+## References
+* Brodersen et al., 2015, Annals of Applied Statistics. Inferring causal impact
+  using Bayesian structural time-series models.
+  https://research.google/pubs/pub41854/
+
+
