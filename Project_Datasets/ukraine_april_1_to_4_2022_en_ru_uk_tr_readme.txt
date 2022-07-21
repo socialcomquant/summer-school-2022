@@ -33,3 +33,11 @@ The JSON provided by Twitter has been parsed and the following columns are in th
 #26 location
 #27 created_at
 #28 utc_offset
+
+You can read in the data into Pandas data frame using code like this:
+
+import csv
+import pandas as pd
+tweets = pd.read_csv("DATAFILE", sep="\t", lineterminator='\n', low_memory=False, quoting=csv.QUOTE_NONE, escapechar=None, header=None)
+
+(substitute DATAFILE with name of the file)
