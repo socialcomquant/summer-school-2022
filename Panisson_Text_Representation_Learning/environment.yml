@@ -1,0 +1,17 @@
+name: transformers
+channels:
+  - huggingface
+  - pytorch
+  - defaults
+dependencies:
+  - pytorch
+  - huggingface_hub=0.8.0
+  - datasets
+  - transformers
+  - ipykernel
+  - ipywidgets
+  - sentencepiece
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
