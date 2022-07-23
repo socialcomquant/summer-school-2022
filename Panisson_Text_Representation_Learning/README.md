@@ -43,4 +43,4 @@ Finally, open this notebook on Jupyter and check if all cells run without except
 
 If the setup does not work, you still should be able to open the notebook on Google Colab:
 
-**1.Environment-Setup.ipynb**: [Link](https://colab.research.google.com/summer-school-2022/Panisson_Text_Representation_Learning/1.Environment-Setup.ipynb)
+**1.Environment-Setup.ipynb**: [Link](https://colab.research.google.com/github/socialcomquant/summer-school-2022/blob/master/Panisson_Text_Representation_Learning/1.Environment-Setup.ipynb)
