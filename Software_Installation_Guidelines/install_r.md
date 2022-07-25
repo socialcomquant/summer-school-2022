@@ -57,7 +57,7 @@ library(ggthemes)
 library(scales)
 library(wesanderson)
 ````
-6.For help type ? followed by the *command* and *run*. For shortcuts in R Studio, please see the following [document](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts-in-the-RStudio-IDE)
+6. For help type ? followed by the *command* and *run*. For shortcuts in R Studio, please see the following [document](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts-in-the-RStudio-IDE)
 ```{r}
 ?merge
 ```
