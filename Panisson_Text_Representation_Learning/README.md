@@ -46,3 +46,11 @@ If the setup does not work, you still should be able to open the notebook on Goo
 **1.Environment-Setup.ipynb**: [Colab Link](https://colab.research.google.com/github/socialcomquant/summer-school-2022/blob/master/Panisson_Text_Representation_Learning/1.Environment-Setup.ipynb)
 
 **2.BagOfWords.ipynb**: [Colab Link](https://colab.research.google.com/github/socialcomquant/summer-school-2022/blob/master/Panisson_Text_Representation_Learning/2.BagOfWords.ipynb)
+
+**3.Word2Vec.ipynb**: [Colab Link](https://colab.research.google.com/github/socialcomquant/summer-school-2022/blob/master/Panisson_Text_Representation_Learning/3.Word2Vec.ipynb.ipynb)
+
+**4.1.Transformer-Train.ipynb**: [Colab Link](https://colab.research.google.com/github/socialcomquant/summer-school-2022/blob/master/Panisson_Text_Representation_Learning/4.1.Transformer-Train.ipynb)
+
+**4.2.Transformer-Test.ipynb**: [Colab Link](https://colab.research.google.com/github/socialcomquant/summer-school-2022/blob/master/Panisson_Text_Representation_Learning/4.2.Transformer-Test.ipynb)
+
+**5.Translate.ipynb**: [Colab Link](https://colab.research.google.com/github/socialcomquant/summer-school-2022/blob/master/Panisson_Text_Representation_Learning/5.Translate.ipynb)
