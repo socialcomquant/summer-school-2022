@@ -16,3 +16,4 @@ dependencies:
   - scikit-learn
   - matplotlib
   - seaborn
+  - gensim
