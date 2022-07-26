@@ -21,18 +21,18 @@ The JSON provided by Twitter has been parsed and the following columns are in th
 #14 retweeted_status_user_id
 #15 retweeted_status_user_screen_name
 #16 retweeted_extended_tweet
-#17 id
-#18 name
-#19 screen_name
-#20 followers_count
-#21 friends_count
-#22 favourites_count
-#23 listed_count
-#24 statuses_count
-#25 description
-#26 location
-#27 created_at
-#28 utc_offset
+#17 posting user id
+#18 posting user name
+#19 posting user screen_name
+#20 posting user followers_count
+#21 posting user friends_count
+#22 posting user favourites_count
+#23 posting user listed_count
+#24 posting user statuses_count
+#25 posting user description
+#26 posting user location
+#27 posting user created_at
+#28 posting user utc_offset
 
 You can read in the data into Pandas data frame using code like this:
 
