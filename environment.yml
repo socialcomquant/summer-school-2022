@@ -5,3 +5,5 @@ dependencies:
   - matplotlib
   - pandas
   - scikit-learn
+  - networkx
+  - seaborn
