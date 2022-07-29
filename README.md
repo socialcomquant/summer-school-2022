@@ -6,11 +6,6 @@ One of the main goals of the **Social ComQuant** project is developing and organ
 
 For more information have a look at => https://socialcomquant.ku.edu.tr/summer-school-2022/
 
-<img src='../Software_Installation_Guidelines/images/gesis.png' style='height: 60px; float: left'>
-<img src='../Software_Installation_Guidelines/images/social_comquant.png' style='height: 50px; float: left; margin-left: 40px'>
-<img src='../Software_Installation_Guidelines/images/isi.png' style='height: 50px; float: left; margin-left: 20px'>
-<br></br>
-
 ## Lectures & Lecturers
 
 - **Data Analysis and Visualization** by *[Dr. N. Gizem Bacaksizlar Turbic](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Gizem.BacaksizlarTurbic).*
