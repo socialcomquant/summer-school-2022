@@ -2,7 +2,7 @@
 
 The **Social ComQuant** project aims at **radically expanding the scientific excellence and innovation capacity (methodological and theoretical) in computational and quantitative social sciences fields at Koç University** and other academic institutions in Turkey via Twinning Action together with [GESIS](https://www.gesis.org) and [ISI](https://www.isi.it/) in the aforementioned fields. CSS and QSS are the two leading methodological domains in state-of-the-art social sciences, while in Turkey, they are relatively underdeveloped fields.
 
-One of the main goals of the **Social ComQuant** project are developing and organizing summer schools in CSS. The 2nd Social ComQuant Summer School in Computational Social Sciences took place at Koç University in Istanbul between July 25 - 29, 2022. The School focused on methods for analyzing and modeling textual data (e.g. text mining, text classification, information extraction, sentiment analysis, latent semantic models, NLP, event extraction). 
+One of the main goals of the **Social ComQuant** project is developing and organizing summer schools in CSS. The 2nd Social ComQuant Summer School in Computational Social Sciences took place at Koç University in Istanbul between July 25 - 29, 2022. The School focused on methods for analyzing and modeling textual data (e.g. text mining, text classification, information extraction, sentiment analysis, latent semantic models, NLP, event extraction). 
 
 For more information have a look at => https://socialcomquant.ku.edu.tr/summer-school-2022/
 
